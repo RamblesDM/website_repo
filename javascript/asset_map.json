@@ -1,0 +1,226 @@
+{
+  "header_projects": [
+   {
+      "title": "Revo",
+      "description": "A revo is a fine art created by Dante, it is wonderful in its ability to be used by Brian",
+      "date": "12/20/2025",
+      "asset_link": "../images/art/wornworn revo.glb",
+      "thumbnail_link": "../images/art/revo_thumbnail.png",
+      "tags": [
+        "Maya",
+      "3D models"
+      ]
+    },
+    {
+      "title": "Security Robot",
+      "description": "A fully rendered security Robot.",
+      "date": "12/20/2002",
+      "asset_link": "../images/art/OBJ_SEC.obj",
+      "thumbnail_link": "../images/art/OBJ_SEC.png",
+      "tags": [
+        "Three.js",
+        "JavaScript",
+        "FAA"
+      ]
+    },
+    {
+      "title": "Officer's Room",
+      "description": "A fully rendered Carbine.",
+      "date": "12/20/2002",
+      "asset_link": "../images/art/Aegis_Carbine.obj",
+      "thumbnail_link": "../images/art/office_room.png",
+      "tags": [
+        "Three.js",
+        "JavaScript",
+        "FAA"
+      ]
+    },
+    {
+      "title": "Rooster or the Egg",
+      "description": "Yeah idk when this was made or not .",
+      "date": "12/20/2002",
+      "asset_link": "../images/art/rooster.jpg",
+      "thumbnail_link": "../images/art/rooster.jpg",
+      "tags": [
+        "Three.js",
+        "JavaScript",
+        "FAA"
+      ]
+    },
+    {
+      "title": "Aegis Carbine",
+      "description": "A fully rendered Carbine.",
+      "date": "12/20/2002",
+      "asset_link": "../images/art/Aegis_Carbine.obj",
+      "thumbnail_link": "../images/art/carbine.png",
+      "tags": [
+        "Three.js",
+        "JavaScript",
+        "FAA"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Jungle Temple",
+      "description": "A fully rendered 3D jungle scene.",
+      "date": "12/20/2002",
+      "asset_link": "../images/art/office_room.png",
+      "thumbnail_link": "../images/art/office_room.png",
+      "tags": [
+        "Three.js",
+        "JavaScript",
+        "FAA"
+      ]
+    },
+    {
+      "title": "Revo",
+      "description": "A revo is a fine art created by Dante, it is wonderful in its ability to be used by Brian",
+      "date": "12/20/2025",
+      "asset_link": "../images/art/Revo.obj",
+      "thumbnail_link": "../images/art/revo_thumbnail.png",
+      "tags": [
+        "Maya",
+        "3D models"
+      ]
+    },
+    {
+      "title": "Trawleezer",
+      "description": "A trawleezer",
+      "date": "12/20/2025",
+      "asset_link": "../images/art/Trawleezer.obj",
+      "thumbnail_link": "../images/art/Trawleezer.png",
+      "tags": [
+        "Maya",
+        "3D models"
+      ]
+    },
+    {
+      "title": "Trawleezer",
+      "description": "A trawleezer",
+      "date": "12/20/2025",
+      "asset_link": "../images/art/Trawleezer.obj",
+      "thumbnail_link": "../images/art/Trawleezer.png",
+      "tags": [
+        "Maya",
+        "3D models"
+      ]
+    },
+    {
+      "title": "Trawleezer",
+      "description": "A trawleezer",
+      "date": "12/20/2025",
+      "asset_link": "../images/art/Revo.obj",
+      "thumbnail_link": "../images/art/Trawleezer.png",
+      "tags": [
+        "Maya",
+        "3D models"
+      ]
+    },
+    {
+      "title": "Awesome painting",
+      "description": "Whatever a revo is.",
+      "date": "12/20/2025",
+      "asset_link": "../images/art/Revo.obj",
+      "thumbnail_link": "../images/art/revo_thumbnail.png",
+      "tags": [
+        "Revo",
+        "Maya",
+        "3D models"
+      ]
+    },
+    {
+      "title": "Helmet Guy",
+      "description": "dude.",
+      "date": "12/20/2025",
+      "asset_link": "../images/art/Helmet_Guy_Thing.mb",
+      "thumbnail_link": "../images/art/revo_thumbnail.png",
+      "tags": [
+        "Revo",
+        "Maya",
+        "3D models"
+      ]
+    },
+    {
+      "title": "Mecha_crab",
+      "description": "dude.",
+      "date": "12/20/2025",
+      "asset_link": "../images/art/Mechacrab_Site_test.obj",
+      "thumbnail_link": "../images/art/revo_thumbnail.png",
+      "tags": [
+        "Revo",
+        "Maya",
+        "3D models"
+      ]
+    },
+    {
+      "title": "Iron Man Helmet",
+      "description": "dude. this is ironman",
+      "date": "12/20/2025",
+      "asset_link": "../images/art/Helm-Site0-Test.obj",
+      "thumbnail_link": "../images/art/revo_thumbnail.png",
+      "tags": [
+        "Revo",
+        "Maya",
+        "3D models"
+      ]
+    },
+    {
+      "title": "Rooster'd",
+      "description": "dude. this is ironman",
+      "date": "12/20/2025",
+      "asset_link": "../images/art/Rooster-Site-Test.obj",
+      "thumbnail_link": "../images/art/revo_thumbnail.png",
+      "tags": [
+        "Revo",
+        "Maya",
+        "3D models"
+      ]
+    },
+    {
+      "title": "huh",
+      "description": "A fully rendered 3D jungle scene.",
+      "date": "12/20/2002",
+      "asset_link": "/images/art/office_room.png",
+      "thumbnail_link": "../images/art/office_room.png",
+      "tags": [
+        "Three.js",
+        "JavaScript",
+        "FAA"
+      ]
+    }
+  ],
+  "projects_scenes": [
+    {
+      "title": "Jungle Temple Scene Movie",
+      "description": "A fully rendered 3D jungle scene.",
+      "date": "12/20/2002",
+      "asset_link": "/images/movies/jungle.mp4",
+      "thumbnail_link": "../images/art/jungle.png",
+      "tags": [
+        "Three.js",
+        "JavaScript",
+        "FAA"
+      ]
+    }
+  ],
+  "color_tags": [
+    {
+      "Maya": "#FF6B6B",
+      "Three.js": "#4ECDC4",
+      "JavaScript": "#F7DF1E",
+      "FAA": "#45B7D1",
+      "3D models": "#F7DF1E"
+    }
+  ],
+  
+  "movies": [
+    {
+      "header_shots": [
+        "/images/movies/header.mp4",
+        "/images/movies/jungle.mp4",
+        "/images/movies/Fly_Gieri_Short.mov"
+      ]
+    }
+  ]
+}
