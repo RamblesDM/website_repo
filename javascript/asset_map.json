@@ -154,7 +154,6 @@
   "movies": [
     {
       "header_shots": [
-        "./images/movies/header.mp4",
         "./images/movies/jungle.mp4",
         "./images/movies/Fly_Gieri_Short.mov"
       ]
