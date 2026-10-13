@@ -2,7 +2,7 @@ import { initializeModalSelectors } from "./modal_selector.js";
 
 async function fetchJSONData() {
     try {
-        const response = await fetch("/javascript/asset_map.json");
+        const response = await fetch("./javascript/asset_map.json");
 
         if (!response.ok) {
             throw new Error(`HTTP error! Status: ${response.status}`);
@@ -17,12 +17,12 @@ async function fetchJSONData() {
 
 const pageConfig = {
     "index.html": {
-        json: "/javascript/featured_projects.json",
+        json: "./javascript/featured_projects.json",
         limit: 5
     },
 
     "artworks.html": {
-        json: "/javascript/asset_map.json",
+        json: "./javascript/asset_map.json",
         limit: Infinity
     }
 };

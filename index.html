@@ -7,13 +7,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Home | Art Portfolio</title>
   <link rel="stylesheet" href="style.css">
-  <link rel="icon" type="image/png" href="/images/favicons/favicon.png">
+  <link rel="icon" type="image/png" href="./images/favicons/favicon.png">
 
   <meta property="og:title" content="Dante Mussa | 3D Environment & Lighting Artist">
 
   <meta property="og:description" content="3D environment, modeling, and lighting portfolio by Dante Mussa.">
 
-  <meta property="og:image" content="https://api.amortillite.com/images/favicons/favicon.png?v=3">
+  <meta property="og:image" content="https://www.dantemussa.com/images/favicons/favicon.png?v=3">
 
   <meta property="og:type" content="website">
 
@@ -23,9 +23,9 @@
   {
     "@context": "https://schema.org",
     "@type": "Person",
-    "@id": "https://api.amortillite.com/#dante-mussa",
+    "@id": "https://www.dantemussa.com/#dante-mussa",
     "name": "Dante Mussa",
-    "url": "https://api.amortillite.com/",
+    "url": "https://www.dantemussa.com/",
     "jobTitle": "3D Environment & Lighting Artist",
     "description": "Dante Mussa is a 3D Environment and Lighting Artist specializing in 3D environments, cinematic lighting, modeling, texturing, and real-time artwork.",
     "sameAs": [
@@ -46,7 +46,7 @@
         <img src="/images/favicons/transparent_favicon.png" class="h-16 w-auto scale-50 origin-left"> </img>
         <ul class="sm:absolute sm:left-1/2 sm:-translate-x-1/2 flex items-center gap-8">
           <li><a href="index.html" class="active">Home</a></li>
-          <li><a href="art_works.html " class="whitespace-nowrap">3D Models</a></li>
+          <li><a href="art_works.html" class="whitespace-nowrap">3D Models</a></li>
           <li><a href="resume.html">Resume</a></li>
         </ul>
       </div>
@@ -95,7 +95,7 @@
         class="absolute top-3 right-3 text-text-secondary hover:text-black text-xl z-10">✕</button>
       <img id="modalImg" class="w-full max-h-[70vh] object-contain rounded-xl" />
       <video id="modalVideo" class="hidden w-full h-[70vh] max-h-[700px] object-contain rounded-xl" controls playsinline
-        poster="/images/favicons/favicon.png"></video>
+        poster="./images/favicons/favicon.png"></video>
       <canvas id="object_canvas" class="block w-full h-[70vh] max-h-[700px] rounded-xl"></canvas>
 
       <div id="modelLoadingOverlay"
@@ -126,7 +126,15 @@
     </div>
   </div>
 
-
+ <script type="importmap">
+  {
+    "imports": {
+      "three": "https://cdn.jsdelivr.net/npm/three@0.185.1/build/three.module.js",
+      "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.185.1/examples/jsm/"
+    }
+  }
+  </script>
+  </script>
   <script type="module" src="./javascript/modal_creator.js" defer></script>
   <script type="module" src="./javascript/model-viewer.js"></script>
   <script type="module" src="./javascript/modal_selector.js" defer></script>
