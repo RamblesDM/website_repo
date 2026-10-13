@@ -46,7 +46,7 @@ function replace_video(new_src)
 
 async function fetchJSONData() {
     try {
-        const response = await fetch("/javascript/asset_map.json");
+        const response = await fetch("./javascript/asset_map.json");
 
         if (!response.ok) {
             throw new Error(`HTTP error! Status: ${response.status}`);
